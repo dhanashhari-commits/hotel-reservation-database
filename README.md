@@ -1,2 +1,21 @@
-# hotel-reservation-database
-SQL database project for managing hotel reservations, customers, rooms, bookings, and payments
+Hotel Reservation System Database
+
+This project implements a relational SQL database for managing hotel reservations.
+
+Entities
+- Customers
+- Rooms
+- Bookings
+- Payments
+
+Features
+- relational database design
+- primary and foreign keys
+- joins
+- aggregation queries
+- insert, update, delete operations
+
+Tools Used
+SQL
+MySQL Workbench
+GitHub
